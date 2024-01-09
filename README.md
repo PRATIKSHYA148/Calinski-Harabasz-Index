@@ -1,1 +1,1 @@
-# Calinski-Harabasz-Index
+This project analyzes Nepal weather data using the Calinski-Harabaz (CH) index to identify potential clusters based on weather patterns. The CH index helps determine the optimal number of clusters by balancing inter-cluster and intra-cluster variances.
